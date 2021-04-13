@@ -1,0 +1,53 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://School.org/cites/0> <http://www.w3.org/2006/time#year> "2021"^^<http://www.w3.org/2001/XMLSchema#int>;
+  <https://research.tec.mx/vivo-tec/display/School_EAAD> "0";
+  <https://research.tec.mx/vivo-tec/display/School_ECSG> "1";
+  <https://research.tec.mx/vivo-tec/display/School_EHE> "4";
+  <https://research.tec.mx/vivo-tec/display/School_EIC> "48";
+  <https://research.tec.mx/vivo-tec/display/School_EMCS> "8";
+  <https://research.tec.mx/vivo-tec/display/School_EN> "7" .
+
+<http://School.org/cites/1> <http://www.w3.org/2006/time#year> "2020"^^<http://www.w3.org/2001/XMLSchema#int>;
+  <https://research.tec.mx/vivo-tec/display/School_EAAD> "17";
+  <https://research.tec.mx/vivo-tec/display/School_ECSG> "53";
+  <https://research.tec.mx/vivo-tec/display/School_EHE> "133";
+  <https://research.tec.mx/vivo-tec/display/School_EIC> "1094";
+  <https://research.tec.mx/vivo-tec/display/School_EMCS> "372";
+  <https://research.tec.mx/vivo-tec/display/School_EN> "110" .
+
+<http://School.org/cites/2> <http://www.w3.org/2006/time#year> "2019"^^<http://www.w3.org/2001/XMLSchema#int>;
+  <https://research.tec.mx/vivo-tec/display/School_EAAD> "8";
+  <https://research.tec.mx/vivo-tec/display/School_ECSG> "47";
+  <https://research.tec.mx/vivo-tec/display/School_EHE> "109";
+  <https://research.tec.mx/vivo-tec/display/School_EIC> "1044";
+  <https://research.tec.mx/vivo-tec/display/School_EMCS> "319";
+  <https://research.tec.mx/vivo-tec/display/School_EN> "115" .
+
+<http://School.org/cites/3> <http://www.w3.org/2006/time#year> "2018"^^<http://www.w3.org/2001/XMLSchema#int>;
+  <https://research.tec.mx/vivo-tec/display/School_EAAD> "3";
+  <https://research.tec.mx/vivo-tec/display/School_ECSG> "45";
+  <https://research.tec.mx/vivo-tec/display/School_EHE> "93";
+  <https://research.tec.mx/vivo-tec/display/School_EIC> "793";
+  <https://research.tec.mx/vivo-tec/display/School_EMCS> "263";
+  <https://research.tec.mx/vivo-tec/display/School_EN> "99" .
+
+<http://School.org/cites/4> <http://www.w3.org/2006/time#year> "2017"^^<http://www.w3.org/2001/XMLSchema#int>;
+  <https://research.tec.mx/vivo-tec/display/School_EAAD> "4";
+  <https://research.tec.mx/vivo-tec/display/School_ECSG> "39";
+  <https://research.tec.mx/vivo-tec/display/School_EHE> "76";
+  <https://research.tec.mx/vivo-tec/display/School_EIC> "741";
+  <https://research.tec.mx/vivo-tec/display/School_EMCS> "187";
+  <https://research.tec.mx/vivo-tec/display/School_EN> "108" .
+
+<http://School.org/cites/5> <http://www.w3.org/2006/time#year> "2016"^^<http://www.w3.org/2001/XMLSchema#int>;
+  <https://research.tec.mx/vivo-tec/display/School_EAAD> "8";
+  <https://research.tec.mx/vivo-tec/display/School_ECSG> "45";
+  <https://research.tec.mx/vivo-tec/display/School_EHE> "114";
+  <https://research.tec.mx/vivo-tec/display/School_EIC> "519";
+  <https://research.tec.mx/vivo-tec/display/School_EMCS> "126";
+  <https://research.tec.mx/vivo-tec/display/School_EN> "73" .
